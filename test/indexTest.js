@@ -1,3 +1,4 @@
+const { introduction, introductionWithLanguage, introductionWithLanguageOptional } = require('../index.js');
 require ( './root.js' );
 
 
